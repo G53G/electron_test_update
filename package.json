@@ -12,7 +12,7 @@
     "url": "git+https://github.com/G53G/electron_test_update.git"
   },
   "devDependencies": {
-    "electron": "^6.0.10"
+    "electron": "^9.1.0"
   },
   "keywords": [],
   "author": "",
